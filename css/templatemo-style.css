@@ -375,7 +375,7 @@ http://www.templatemo.com/tm-509-hydro
   #about {
     text-align: left;
     padding-bottom: 20px;
-	padding-top: 50px;
+	padding-top:100px;
   }
 
   #about .about-info:first-child {
@@ -424,6 +424,10 @@ http://www.templatemo.com/tm-509-hydro
     position: relative;
     cursor: pointer;
     border-radius: 3px;
+  }
+  
+  #work {
+	padding-top: 100px;
   }
 
   .work-thumb .work-info {
